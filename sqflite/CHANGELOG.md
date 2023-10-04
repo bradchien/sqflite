@@ -1,3 +1,7 @@
+## 2.3.3+2
+
+* to support tvOS
+
 ## 2.3.3+1
 
 * Remove android v1 embedding support
